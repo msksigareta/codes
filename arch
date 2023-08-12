@@ -1,0 +1,24 @@
+- A modo de ejemplo, supongamos que queremos descubrir el comando para abrir shutter, una herramienta para tomar capturas de escritorio. Para listar todos los ejecutables relacionados con shutter en el directorio /usr/bin o /usr/local/bin, debemos utilizar el siguiente comando:
+- locate shutter | grep bin
+- 
+sudo pacman -S python-psutil # for widgets 
+- 
+Instalar Drivers Nvidia + CUDA + VULKAN + VDPAU + NVENC - Arch Linux  
+- 
+/dev/sda1 - /      - Ext4 -  15 Gb
+/dev/sda2 - swap   - swap -  10 GB
+/dev/sda3 - /home  - Ext4 - 225 Gb  
+- 
+- Descomprimir .tar.gz en Linux 
+- Puedes descomprimir la mayoría de los archivos .tar.gz y otros archivos .tar comprimidos utilizando la utilidad tar.
+- Para el método más sencillo, empieza abriendo el terminal (CTRL+ALT+T) y navega hasta el directorio del archivo .tar.gz que quieres descomprimir. A continuación, introduce el siguiente comando:
+- Extraer el archivo .tar.gz al directorio de trabajo actual:
+- tar -xf filename.tar.gz 
+- 
+- /usr/share/lightdm-webkit/themes/
+- 
+- 
+Mantenimiento y optimización de Manjaro, los comandos
+        - 
+        Felinfo: Java, Linux, Virtualización. Open Source.
+ 
